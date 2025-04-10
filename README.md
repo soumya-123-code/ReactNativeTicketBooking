@@ -1,6 +1,6 @@
 # Train Ticket Booking Express
 
-![Train Ticket Booking Express Logo](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/Logo.png)
+![Train Ticket Booking Express Logo](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/home.png)
 
 ## Overview
 
