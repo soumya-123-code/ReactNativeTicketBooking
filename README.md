@@ -118,8 +118,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any queries or support, please contact us at:
-- Email: support@trainbookingexpress.com
-- Website: www.trainbookingexpress.com
+- Email: Soumya050794@gmail.com
+- Website: (https://soumya-123-code.github.io/itsmesoumya/)
 
 ---
 
