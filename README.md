@@ -43,7 +43,8 @@ Train Ticket Booking Express is a comprehensive mobile application designed to s
 ![Train Search](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/WhereismyTrain.png)
 
 ### Booking Process
-![Booking Options](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/economyseatbooking.png)
+![Booking Options](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/bookseat.png)
+![Booking Options](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/bookseat.png)
 ![Seat Selection](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/SelectTrain.png)
 ![Payment](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/Payment.png)
 
