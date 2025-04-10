@@ -1,7 +1,6 @@
-# ReactNativeTicketBooking
+# Train Ticket Booking Express
 
-
-![Train Ticket Booking Express Logo](https://github.com/soumya-123-code/ReactNativeTicketBooking/economyseatbooking.png)
+![Train Ticket Booking Express Logo](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/Logo.png)
 
 ## Overview
 
@@ -40,17 +39,18 @@ Train Ticket Booking Express is a comprehensive mobile application designed to s
 ## Screenshots
 
 ### Train Tracking & Search
-![Train Tracking](https://github.com/soumya-123-code/ReactNativeTicketBooking/screenshots/Main.PNG)
-![Train Search](https://github.com/soumya-123-code/ReactNativeTicketBooking/screenshots/Home.png)
+![Train Tracking](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/TrainTracking.png)
+![Train Search](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/TrainSearch.png)
 
 ### Booking Process
-![Booking Options](https://github.com/soumya-123-code/ReactNativeTicketBooking/screenshots/login.png)
-![Seat Selection](https://github.com/soumya-123-code/ReactNativeTicketBooking/screenshots/Register.png)
-![Payment](https://github.com/soumya-123-code/ReactNativeTicketBooking/screenshots/payment.png)
+![Booking Options](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/BookingOptions.png)
+![Seat Selection](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/SeatSelection.png)
+![Payment](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/Payment.png)
 
 ### User Management
-![Login Screen](https://github.com/soumya-123-code/ReactNativeTicketBooking/screenshots/WhereismyTrain.png)
-![Registration](https://github.com/soumya-123-code/ReactNativeTicketBooking/screenshots/SelectTrain.png)
+![Login Screen](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/Login.png)
+![Registration](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/Register.png)
+![Forgot Password](https://github.com/soumya-123-code/ReactNativeTicketBooking/blob/main/screenshots/Forget.png)
 
 ## Technical Implementation
 
@@ -76,7 +76,7 @@ Train Ticket Booking Express is a comprehensive mobile application designed to s
 
 ```bash
 # Clone the repository
-git clone https://github.com/soumya-123-code/ReactNativeTicketBooking.git
+git clone https://github.com/yourusername/train-ticket-booking-express.git
 
 # Navigate to project directory
 cd train-ticket-booking-express
